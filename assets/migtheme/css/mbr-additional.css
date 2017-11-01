@@ -57,15 +57,8 @@ body {
 /* 0.65 - min scale variable, may vary */
 
 @media (max-width: 768px) {
-  .cid-qzjh3WmuKb {
-    padding-top:30px;
-    padding-bottom:0;
-  }
-  @media (max-width: 767px)
-  .splash1 .right_box {
-    width: auto;
-    padding: 10px 0 10px 0;
-  }
+  .cid-qzjh3WmuKb { padding-top:30px; padding-bottom:0; }
+  .splash1 .right_box { width: auto; padding: 10px 0 10px 0; }
   .display-1 {
     font-size: 3.4rem;
     font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
